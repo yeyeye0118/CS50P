@@ -3,6 +3,10 @@
 python说明文档：https://docs.python.org/zh-cn/3.12/     (英文版把zh-cn删掉即可)
 
 >str的函数汇总：https://docs.python.org/zh-cn/3.12/library/stdtypes.html#string-methods                      
+>re正则表达式：https://docs.python.org/3/library/re.html
+>字典：https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+>sys库：https://docs.python.org/3/library/sys.html
+>pytest库：https://docs.pytest.org/en/stable/index.html
 
 
 ----------------------
@@ -18,5 +22,3 @@ python说明文档：https://docs.python.org/zh-cn/3.12/     (英文版把zh-cn�
 讨论区:[CS50x – Ed Discussion](https://edstem.org/us/courses/176/discussion)
 
 
-课程
-[lecture0 Function](https://cs50.harvard.edu/python/weeks/0/)
